@@ -36,6 +36,6 @@ bool operator== (const Edge& cR1, const Edge& cR2) {
 }
 
 std::ostream& operator<< (std::ostream &out, Edge &cEdge) {
-	out << cEdge.src << "\t" << cEdge.dst << "\n";
+	out << cEdge.src << " " << cEdge.dst << "\n";
 	return out;
 }
