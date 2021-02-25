@@ -1,0 +1,5 @@
+./Release/PaRMAT -a 0.57 -b 0.19 -c 0.19 -nVertices 66666666 -nEdges 2000000000 -noEdgeToSelf -noDuplicateEdges -threads 4 -memUsage 0.7 -output /home/ubuntu/cephstorage/graphs/rmat-2000000000-66666666
+./Release/PaRMAT -a 0.57 -b 0.19 -c 0.19 -nVertices 83333333 -nEdges 2500000000 -noEdgeToSelf -noDuplicateEdges -threads 4 -memUsage 0.7 -output /home/ubuntu/cephstorage/graphs/rmat-2500000000-83333333
+./Release/PaRMAT -a 0.57 -b 0.19 -c 0.19 -nVertices 100000000 -nEdges 3000000000 -noEdgeToSelf -noDuplicateEdges -threads 4 -memUsage 0.7 -output /home/ubuntu/cephstorage/graphs/rmat-3000000000-100000000
+./Release/PaRMAT -a 0.57 -b 0.19 -c 0.19 -nVertices 116666666 -nEdges 3500000000 -noEdgeToSelf -noDuplicateEdges -threads 4 -memUsage 0.7 -output /home/ubuntu/cephstorage/graphs/rmat-3500000000-116666666
+./Release/PaRMAT -a 0.57 -b 0.19 -c 0.19 -nVertices 133333333 -nEdges 4000000000 -noEdgeToSelf -noDuplicateEdges -threads 4 -memUsage 0.7 -output /home/ubuntu/cephstorage/graphs/rmat-4000000000-133333333
